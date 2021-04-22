@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### :computer: About me:
-:ru: From Russia with love
-:mortar_board: School21 student
+:ru: From Russia with love  
+:mortar_board: School21 student  
 :book: Learn programming
 
 [![ugreyiro's 42 stats](https://badge42.herokuapp.com/api/stats/ugreyiro?privacyName=true)](https://github.com/JaeSeoKim/badge42)
