@@ -4,7 +4,7 @@
 :mortar_board: School21 student
 :book: Learn programming
 
-[![ugreyiro's 42 stats](https://badge42.herokuapp.com/api/stats/ugreyiro)](https://github.com/JaeSeoKim/badge42)
+[![ugreyiro's 42 stats](https://badge42.herokuapp.com/api/stats/ugreyiro?privacyName=true?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
 
 Here I store my student projects and describe them. I made them to learn something new and you can join me!
