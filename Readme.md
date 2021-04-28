@@ -7,7 +7,7 @@
 [![ugreyiro's 42 stats](https://badge42.herokuapp.com/api/stats/ugreyiro?privacyName=true)](https://github.com/JaeSeoKim/badge42)
 
 
-Here I store my student projects and describe them. I made them to learn something new and you can join me!
+Here I store my student projects.
 
 
 ### Follow me:
