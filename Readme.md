@@ -33,7 +33,7 @@
 
 <details><summary><img src='/languages_tools/cpp_512x512.png' alt='cpp' height='20'> C++</summary>
 
-2 interesting projects in progres...
+2 interesting projects in progress...
 
 </details>
 
