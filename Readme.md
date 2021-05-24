@@ -12,12 +12,13 @@
 [<img src='/contacts/inst.png' height='40'>](https://www.instagram.com/dyuvarov/)
 
 ### Languages
-[<img src='/languages_tools/c_16x16.png' alt='c' height='40'>]()
-[<img src='/languages_tools/java_16x16.png' alt='java' height='40'>]()
-[<img src='/languages_tools/cpp_16x16.png' alt='cpp' height='40'>]()
+[<img src='/languages_tools/c_512x512.png' alt='c' height='16'>](#C)
+[<img src='/languages_tools/java_512x512.png' alt='java' height='16'>](#Java)
+[<img src='/languages_tools/cpp_512x512.png' alt='cpp' height='16'>](#C++)
 
 ### Projects
-<details><summary>C</summary>
+##### C
+<details><summary>projects</summary>
 
 [3D game](https://github.com/Dyuvarov/3D_game_C.git)  
 [Dining philosophers](https://github.com/Dyuvarov/Dining-philosophers.git)  
@@ -25,26 +26,30 @@
 [My printf](https://github.com/Dyuvarov/my_printf)  
 </details>
 
-<details><summary>Java</summary>
+#### Java
+<details><summary>projects</summary>
 
 [Text game](https://github.com/Dyuvarov/AlchemistConsoleGame)  
 [Log parser](https://github.com/Dyuvarov/Java-Log-Parser)  
 1 interesting project in progress...
 </details>
 
-<details><summary>C++</summary>
+#### C++
+<details><summary>projects</summary>
 
 2 interesting projects in progres...
 
 </details>
 
-<details><summary>Docker and Kubernetes</summary>
+#### Docker & Kubernetes
+<details><summary>projects</summary>
 
 [Services](https://github.com/Dyuvarov/Services)
 
 </details>
 
-<details><summary>Assembler</summary>
+#### Assembler
+<details><summary>projects</summary>
 
 [library on assembler](https://github.com/Dyuvarov/Library_asm)
 
