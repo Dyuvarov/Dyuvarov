@@ -12,9 +12,7 @@
 [<img src='/contacts/inst.png' height='40'>](https://www.instagram.com/dyuvarov/)
 
 ### Languages
-<img src='/languages_tools/c_512x512.png' alt='c' height='40'>
-<img src='/languages_tools/java_512x512.png' alt='java' height='40'>
-<img src='/languages_tools/cpp_512x512.png' alt='cpp' height='40'>
+<img src='/languages_tools/c_512x512.png' alt='c' height='40'> <img src='/languages_tools/java_512x512.png' alt='java' height='40'> <img src='/languages_tools/cpp_512x512.png' alt='cpp' height='40'>
 
 ### Projects
 
