@@ -16,7 +16,7 @@
 
 ### Projects
 
-<details><summary>C</summary>
+<details><summary>C<img src='/languages_tools/c_512x512.png' alt='c' height='40'></summary>
 
 [3D game](https://github.com/Dyuvarov/3D_game_C.git)  
 [Dining philosophers](https://github.com/Dyuvarov/Dining-philosophers.git)  
