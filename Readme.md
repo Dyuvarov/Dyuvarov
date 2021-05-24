@@ -16,7 +16,7 @@
 
 ### Projects
 
-<details><summary>C<img src='/languages_tools/c_512x512.png' alt='c' height='40'></summary>
+<details><summary><img src='/languages_tools/c_512x512.png' alt='c' height='20'></summary>
 
 [3D game](https://github.com/Dyuvarov/3D_game_C.git)  
 [Dining philosophers](https://github.com/Dyuvarov/Dining-philosophers.git)  
@@ -24,26 +24,26 @@
 [My printf](https://github.com/Dyuvarov/my_printf)  
 </details>
 
-<details><summary>Java</summary>
+<details><summary><img src='/languages_tools/java_512x512.png' alt='java' height='20'></summary>
 
 [Text game](https://github.com/Dyuvarov/AlchemistConsoleGame)  
 [Log parser](https://github.com/Dyuvarov/Java-Log-Parser)  
 1 interesting project in progress...
 </details>
 
-<details><summary>C++</summary>
+<details><summary><img src='/languages_tools/cpp_512x512.png' alt='cpp' height='20'></summary>
 
 2 interesting projects in progres...
 
 </details>
 
-<details><summary>Docker & Kubernetes</summary>
+<details><summary><img src='/languages_tools/kuber_512x512.png' alt='kubernetes' height='20'></summary>
 
 [Services](https://github.com/Dyuvarov/Services)
 
 </details>
 
-<details><summary>Assembler</summary>
+<details><summary><img src='/languages_tools/assembler.png' alt='assembler' height='20'></summary>
 
 [library on assembler](https://github.com/Dyuvarov/Library_asm)
 
