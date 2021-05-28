@@ -20,8 +20,7 @@
 
 [3D game](https://github.com/Dyuvarov/3D_game_C.git)  
 [Dining philosophers](https://github.com/Dyuvarov/Dining-philosophers.git)  
-[miniSHELL](https://github.com/Dyuvarov/minishell)  
-[My printf](https://github.com/Dyuvarov/my_printf)  
+[miniSHELL](https://github.com/Dyuvarov/minishell)   
 </details>
 
 <details><summary><img src='/languages_tools/java_512x512.png' alt='java' height='20'> Java</summary>
