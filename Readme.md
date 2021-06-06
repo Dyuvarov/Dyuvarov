@@ -26,6 +26,7 @@
 <details><summary><img src='/languages_tools/java_512x512.png' alt='java' height='20'> Java</summary>
 
 [Text game](https://github.com/Dyuvarov/AlchemistConsoleGame)  
+[Flights (Spring Boot web service)](https://github.com/Dyuvarov/Flights_Web_Service)    
 [Log parser](https://github.com/Dyuvarov/Java-Log-Parser)  
 1 interesting project in progress...
 </details>
