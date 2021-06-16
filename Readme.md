@@ -25,10 +25,10 @@
 
 <details><summary><img src='/languages_tools/java_512x512.png' alt='java' height='20'> Java</summary>
 
+[Travelator Telegram bot (Spring Boot, Spring Data JPA, PostgreSQL, Docker)](https://github.com/Dyuvarov/TravelatorBOT)  
 [Text game](https://github.com/Dyuvarov/AlchemistConsoleGame)  
 [Flights (Spring Boot web service)](https://github.com/Dyuvarov/Flights_Web_Service)    
 [Log parser](https://github.com/Dyuvarov/Java-Log-Parser)  
-1 interesting project in progress...
 </details>
 
 <details><summary><img src='/languages_tools/cpp_512x512.png' alt='cpp' height='20'> C++</summary>
