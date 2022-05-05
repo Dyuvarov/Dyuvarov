@@ -4,8 +4,6 @@
 :mortar_board: School21 student  
 :book: Learn programming
 
-[![ugreyiro's 42 stats](https://badge42.herokuapp.com/api/stats/ugreyiro?privacyName=true)](https://github.com/JaeSeoKim/badge42)
-
 ### Say 'Hi!'
 [<img src='/contacts/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/aidar-dyuvarov-671917212/)
 [<img src='/contacts/telegram.png' alt='telegram' height='40'>](https://t.me/dyuvarov)
