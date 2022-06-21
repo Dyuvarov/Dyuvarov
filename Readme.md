@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### :computer: About me:
 :ru: From Russia with love  
-:computer: Java Developer 
+:computer: Java Developer  
 :mortar_board: School21 student  
 
 ### Say 'Hi!'
