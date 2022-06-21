@@ -1,8 +1,8 @@
 ### Hi there 👋
 #### :computer: About me:
 :ru: From Russia with love  
+:computer: Java Developer
 :mortar_board: School21 student  
-:book: Learn programming
 
 ### Say 'Hi!'
 [<img src='/contacts/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/aidar-dyuvarov-671917212/)
