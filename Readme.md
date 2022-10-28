@@ -1,6 +1,5 @@
 ### Hi there 👋
 #### :computer: About me:
-:ru: From Russia with love  
 :computer: Java Developer  
 :mortar_board: École 42 student  
 
