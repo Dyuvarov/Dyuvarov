@@ -25,7 +25,7 @@
 
 [VaccinationApp](https://github.com/Dyuvarov/VaccinationApp)  
 [Travelator (Telegram bot)](https://github.com/Dyuvarov/TravelatorBOT)  
-[ClansGold (JakartaEE app)](https://github.com/Dyuvarov/ClansGold)
+[ClansGold (JakartaEE app)](https://github.com/Dyuvarov/ClansGold)  
 [Text game](https://github.com/Dyuvarov/AlchemistConsoleGame)  
 [Flights (Spring Boot web service)](https://github.com/Dyuvarov/Flights_Web_Service)    
 </details>
