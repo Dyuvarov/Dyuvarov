@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### :computer: About me:
+#### About me:
 :computer: Java Developer  
 :mortar_board: École 42 student  
 
