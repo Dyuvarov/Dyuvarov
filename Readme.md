@@ -9,24 +9,24 @@
 [<img src='/contacts/inst.png' height='40'>](https://www.instagram.com/dyuvarov/)
 
 ### Languages
-<img src='/languages_tools/c_512x512.png' alt='c' height='40'> <img src='/languages_tools/java_512x512.png' alt='java' height='40'> <img src='/languages_tools/cpp_512x512.png' alt='cpp' height='40'>
+<img src='/languages_tools/java_512x512.png' alt='java' height='40'> <img src='/languages_tools/c_512x512.png' alt='c' height='40'> <img src='/languages_tools/cpp_512x512.png' alt='cpp' height='40'>
 
 ### Projects
+
+<details><summary><img src='/languages_tools/java_512x512.png' alt='java' height='20'> Java</summary>
+
+[VaccinationApp (Spring Boot App)](https://github.com/Dyuvarov/VaccinationApp)  
+[Travelator (Telegram bot)](https://github.com/Dyuvarov/TravelatorBOT)  
+[ClansGold (JakartaEE App)](https://github.com/Dyuvarov/ClansGold)  
+[Text game](https://github.com/Dyuvarov/AlchemistConsoleGame)  
+[Flights (Spring Boot web service)](https://github.com/Dyuvarov/Flights_Web_Service)    
+</details>
 
 <details><summary><img src='/languages_tools/c_512x512.png' alt='c' height='20'> C</summary>
 
 [3D game](https://github.com/Dyuvarov/3D_game_C.git)  
 [Dining philosophers](https://github.com/Dyuvarov/Dining-philosophers.git)  
 [miniSHELL](https://github.com/Dyuvarov/minishell)   
-</details>
-
-<details><summary><img src='/languages_tools/java_512x512.png' alt='java' height='20'> Java</summary>
-
-[VaccinationApp](https://github.com/Dyuvarov/VaccinationApp)  
-[Travelator (Telegram bot)](https://github.com/Dyuvarov/TravelatorBOT)  
-[ClansGold (JakartaEE app)](https://github.com/Dyuvarov/ClansGold)  
-[Text game](https://github.com/Dyuvarov/AlchemistConsoleGame)  
-[Flights (Spring Boot web service)](https://github.com/Dyuvarov/Flights_Web_Service)    
 </details>
 
 <details><summary><img src='/languages_tools/cpp_512x512.png' alt='cpp' height='20'> C++</summary>
