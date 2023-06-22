@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### About me:
-:computer: Java Developer  
+:computer: Java/Kotlin Developer  
 :mortar_board: École 42 student  
 
 ### Say 'Hi!'
