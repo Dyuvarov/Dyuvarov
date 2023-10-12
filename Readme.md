@@ -13,13 +13,14 @@
 
 ### Projects
 
-<details><summary><img src='/languages_tools/java_512x512.png' alt='java' height='20'> Java</summary>
+<details><summary><img src='/languages_tools/java_512x512.png' alt='java' height='20'> Java/Kotlin</summary>
 
-[VaccinationApp (Spring Boot App)](https://github.com/Dyuvarov/VaccinationApp)  
-[Travelator (Telegram bot)](https://github.com/Dyuvarov/TravelatorBOT)  
-[ClansGold (JakartaEE App)](https://github.com/Dyuvarov/ClansGold)  
-[Text game](https://github.com/Dyuvarov/AlchemistConsoleGame)  
-[Flights (Spring Boot web service)](https://github.com/Dyuvarov/Flights_Web_Service)    
+[VaccinationApp (Spring Boot App)](https://github.com/Dyuvarov/VaccinationApp) [Java]  
+[Ft_hangouts (Android App)](https://github.com/Dyuvarov/ft_hangouts) [Kotlin]  
+[Travelator (Telegram bot)](https://github.com/Dyuvarov/TravelatorBOT) [Java]  
+[ClansGold (JakartaEE App)](https://github.com/Dyuvarov/ClansGold) [Java]  
+[Text game](https://github.com/Dyuvarov/AlchemistConsoleGame) [Java]  
+[Flights (Spring Boot web service)](https://github.com/Dyuvarov/Flights_Web_Service) [Java]    
 </details>
 
 <details><summary><img src='/languages_tools/c_512x512.png' alt='c' height='20'> C</summary>
