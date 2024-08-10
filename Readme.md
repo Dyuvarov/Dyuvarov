@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### About me:
 :computer: Java/Kotlin Developer  
-:mortar_board: École 42 student  
+:mortar_board: École 42 alumni  
 
 ### Say 'Hi!'
 [<img src='/contacts/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/aidar-dyuvarov-671917212/)
