@@ -13,6 +13,18 @@
 
 ### Projects
 
+<details><summary><img src='/languages_tools/kuber_512x512.png' alt='kubernetes' height='20'> Kubernetes</summary>
+
+[Services](https://github.com/Dyuvarov/Services)
+
+</details>
+
+<details><summary><img src='/languages_tools/assembler.png' alt='assembler' height='20'> Assembly</summary>
+
+[library on assembler](https://github.com/Dyuvarov/Library_asm)
+
+</details>
+
 <details><summary><img src='/languages_tools/java_512x512.png' alt='java' height='20'> Java/Kotlin</summary>
 
 [VaccinationApp (Spring Boot App)](https://github.com/Dyuvarov/VaccinationApp) [Java]  
@@ -34,17 +46,5 @@
 
 [IRC server](https://github.com/Dyuvarov/IRC_server)  
 [STL containers implementation](https://github.com/Dyuvarov/CPP_Containers)
-
-</details>
-
-<details><summary><img src='/languages_tools/kuber_512x512.png' alt='kubernetes' height='20'> Kubernetes</summary>
-
-[Services](https://github.com/Dyuvarov/Services)
-
-</details>
-
-<details><summary><img src='/languages_tools/assembler.png' alt='assembler' height='20'> Assembly</summary>
-
-[library on assembler](https://github.com/Dyuvarov/Library_asm)
 
 </details>
